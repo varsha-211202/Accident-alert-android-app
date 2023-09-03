@@ -33,9 +33,6 @@ Accident alert using Android application builds upon the existing system by addi
 
 ![image](https://github.com/varsha-211202/Accident-alert-android-app/assets/110085124/3b47c2ba-0025-42ba-8a6e-f2204a569822)
 ![image](https://github.com/varsha-211202/Accident-alert-android-app/assets/110085124/5b0a48b5-28e7-4d52-bb2f-281e182ce632)
-![image](https://github.com/varsha-211202/Accident-alert-android-app/assets/110085124/56c7c9c9-b187-4d3d-b3c9-d56319bfe444)
-![image](https://github.com/varsha-211202/Accident-alert-android-app/assets/110085124/cb07f125-ca55-4fb3-bc53-426d400ffaed)
-![image](https://github.com/varsha-211202/Accident-alert-android-app/assets/110085124/5122878b-fc5a-40d3-9cfd-4a9d18d5f5f0)
 
 
 
