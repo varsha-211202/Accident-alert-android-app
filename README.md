@@ -1,7 +1,7 @@
 # Accident-alert-android-app
 
 ## Overview:
-Accident alert using Android application builds upon the existing system by adding more advanced features : Once the patient has been taken to the hospital, the ambulance will continue to update the situation. If a patient is admitted, the hospital's app allows them to update their status. This aids in preparing and updating the designated hospital. Additionally, the hospital and police are given access to the user's details, enabling the hospital to view the patient's medical records and the police to see the information they need in the event of an accident. If an  accident  occur in rural area or populated area, this application is more useful for victims.
+     Accident alert using Android application builds upon the existing system by adding more advanced features : Once the patient has been taken to the hospital, the ambulance will continue to update the situation. If a patient is admitted, the hospital's app allows them to update their status. This aids in preparing and updating the designated hospital. Additionally, the hospital and police are given access to the user's details, enabling the hospital to view the patient's medical records and the police to see the information they need in the event of an accident. If an  accident  occur in rural area or populated area, this application is more useful for victims.
 
 ## Module Description:
 ### 1. User:
