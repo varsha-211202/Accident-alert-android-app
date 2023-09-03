@@ -36,9 +36,6 @@ Accident alert using Android application builds upon the existing system by addi
 Laptop or PC<br>
 Android Phone (6.0 and above)<br>
 
-(future implementation)
-Accelermoter and GPS Sensors<br>
- 
 ### Software Requirement:
 **FRONT END:**  Html, Bootstrap(CSS Library), JavaScript<br>
 **BACK END:** Php<br>
@@ -48,3 +45,4 @@ Accelermoter and GPS Sensors<br>
 **The MYSQL database is used to store all the data and in the backend we will use PHP which is a functionality to link and validate the front end data and the database.**<br>
 **We will create our application as responsive with the help of bootstrap and host our application live in 000.webhost.com** <br>
 **By using a third-party service, we convert the web application into Android Mobile Application.**
+**We will implement Accelerometer and GPS Sensors in future.**
