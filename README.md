@@ -12,7 +12,6 @@ Accident alert using Android application builds upon the existing system by addi
 **Backgroud:** The system in the background will be continuously monitoring the Sound decibel value and accelerometer for any Accident type impacts. If it finds the App Notifies the User to verify if it’s a false alarm, if no action is done in 5 secs the Ambulance is assigned & notifies Hospital, Ambulance and Police about the accident with the location & User details.<br>
 **History:** History of Accident detections & details.<br>
 **Notifications:** User will be notified if system detects an Accident.<br>
-<br>
 
 ### 2. Ambulance:
 **Login:** Ambulance driver can login his account using id and password.<br>
