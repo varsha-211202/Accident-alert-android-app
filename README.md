@@ -31,10 +31,20 @@ Accident alert using Android application builds upon the existing system by addi
 **Home:** Police is able to see to Today’s accident specifically or filter date wise to see previous ones.<br>
 **Notifications:** Police will get a notification if it is assigned a Pickup.<br>
 
-![image](https://github.com/varsha-211202/Accident-alert-android-app/assets/110085124/3b47c2ba-0025-42ba-8a6e-f2204a569822)
-![image](https://github.com/varsha-211202/Accident-alert-android-app/assets/110085124/5b0a48b5-28e7-4d52-bb2f-281e182ce632)
+## Requirements:
+### Hardware Requirement: 
+Laptop or PC<br>
+Android Phone (6.0 and above)<br>
 
+(future implementation)
+Accelermoter and GPS Sensors<br>
+ 
+### Software Requirement:
+**FRONT END:**  Html, Bootstrap(CSS Library), JavaScript
+**BACK END:** Php
+**DATABASE:** MySQL
+<br>
+**DESCRIPTION:** The MYSQL database is used to store all the data and in the backend we will use PHP which is a functionality to link and validate the front end data and the database.<br>
+**BOOTSTRAP:** We will create our application as responsive with the help of bootstrap and host our application live in 000.webhost.com <br>
 
-
-
-
+**Note:** By using a third-party service, we convert the web application into Android Mobile Application.
